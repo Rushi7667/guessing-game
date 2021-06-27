@@ -1,4 +1,4 @@
-# guessing-game
+# number guessing-game
 
 In number guessing game we used if else statements and while loop.
 
