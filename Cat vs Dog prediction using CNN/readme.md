@@ -4,8 +4,8 @@ Dataset of Cats and Dogs is downloaded from kaggle.
 We have used Conv2D(It is 2D convolution layer) layer from Keras.
 
 Libraries used:
--Numpy
--Pandas
--Tensorflow
--sklearn
--keras
+-Numpy <br />
+-Pandas <br />
+-Tensorflow <br />
+-sklearn <br />
+-keras <br />
